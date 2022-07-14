@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Nhi -aka Esper
+### Hi there 👋 I'm Nhi -aka Esper
 
 I am comfortable with:
 
