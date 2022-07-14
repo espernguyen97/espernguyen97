@@ -6,6 +6,7 @@ I am comfortable with:
 
 🌱 I’m currently learning UX/UI 
 👯 I’m looking to collaborate on front-end/back-end/fullstack projects
+🗒️ 2022 Goal: Contribute more to Open Source projects  
 
 📫 How to reach me:
 
