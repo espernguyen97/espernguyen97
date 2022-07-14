@@ -1,16 +1,20 @@
 ### Hi there 👋
 
+I'm Nhi -aka Esper
 <!--
 **espernguyen97/espernguyen97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am comfortable with:
+
+❄️ Reactjs, Redux, Javascript, Bootstrap, Java, OOP, Nodejs
+
+🌱 I’m currently learning UX/UI 
+👯 I’m looking to collaborate on front-end/back-end/fullstack projects
+
+📫 How to reach me:
+
+📱 +1 437 235 4045
+📫 espernguyen97@gmail.com
+
+
