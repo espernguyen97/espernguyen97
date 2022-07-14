@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 I'm Nhi -aka Esper
-<!--
-**espernguyen97/espernguyen97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 I am comfortable with:
 
