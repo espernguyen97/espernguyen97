@@ -2,7 +2,7 @@
 
 I am comfortable with:
 
-❄️ Reactjs, Redux, Javascript, Bootstrap, Java, OOP, Nodejs
+❄️ Reactjs, Redux, Javascript, Bootstrap, Java, OOP, Nodejs, SQL
 
 🌱 I’m currently learning UX/UI 
 
