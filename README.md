@@ -4,7 +4,7 @@ I am comfortable with:
 
 ❄️ Reactjs, Redux, Javascript, Bootstrap, Java, OOP, Nodejs, SQL
 
-🌱 I’m currently learning UX/UI 
+🌱 I’m currently learning Python and UX/UI 
 
 👯 I’m looking to collaborate on front-end/back-end/fullstack projects
 
